@@ -1,0 +1,56 @@
+div{
+    background-color: rgb(78, 12, 201);
+  width: 300px;
+  margin-left:475px;
+  margin-right: 475px;
+    margin-top:100px;
+    border-radius: 7px;
+ }
+ h1{
+    text-align:center;
+    color: wheat;
+    font-size:25px;
+ }
+ label{
+
+ color: white;
+ font-size: 35 px;
+ margin-left:30px;
+ }
+ input{
+width:250px;
+height: 25px;
+text-align:left;
+font-size: 15px; 
+margin-left: 20px;
+border-radius: 7px;
+background-color: seashell;
+border: 5 px black;
+ }
+ button{
+    width:100px;
+    height: 30px;
+    margin-left:100px;
+    font-size: 15px;
+    border-radius: 10px;
+    background-color: yellow;
+    
+ }
+ button:hover{
+   background-color: whitesmoke;
+   cursor: pointer;
+ }
+ ul{
+   list-style-type: none;
+ }
+ li{
+   display: inline;
+ }
+ a{
+   color: black;
+   text-decoration: none;
+   font-size: 15px;
+ }
+ a:hover{
+   color: red;
+   cursor: pointer;}
